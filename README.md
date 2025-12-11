@@ -27,10 +27,9 @@ This repository bridges theory and implementation through a combination of conce
 WebSockets-ESP32/
 │
 ├── Manual-1-WebSocket-Fundamentals.pdf
-├── Manual-2-ESP32-WebSocket-Server.pdf
-├── Manual-3-ESP32-WebSocket-Client.pdf
+├── Manual-2-WebSocket-Implementation.pdf
+├── Manual-3-send DHT11 sensor data.pdf
 ├── Manual-4-Device-to-Device-WebSockets.pdf
-├── Manual-5-WebSocket-HTML-Frontend.pdf
 │
 └── README.md
 
